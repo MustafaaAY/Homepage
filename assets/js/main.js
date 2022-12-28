@@ -43,7 +43,7 @@ $(function($) {
         var $typed = $("#typed");
         if ($typed.length > 0) {
             $typed.typed({
-                strings: ["ANDROID DEVELOPMENT", "WEB DEVELOPMENT", "WEB DESIGN", "PYTHON DEVELOPMENT", "ABAP DEVELOPMENT", "C++/C/C# DEVELOPMENT", "MATLAP TABLE ANALYSIS", "EXCEL PIVOT TABLE", "EXCEL MACROS/CALCULATION", "CALCULATION"],
+                strings: ["ANDROID DEVELOPMENT", "ABAP DEVELOPMENT", "WEB DEVELOPMENT"],
                 stringsElement: null,
                 typeSpeed: 70,
                 startDelay: 150,
